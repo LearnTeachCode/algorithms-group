@@ -1,5 +1,7 @@
 # algorithms-group
-Resources and notes for the algorithms study group with Learn Teach Code (Created by @ThuyNT13, @mtroiani, @LearningNerd and @nurarenke)
+Resources and notes for the algorithms study group with Learn Teach Code (Created by @ThuyNT13, @mtroiani, @LearningNerd, @loorin, and @nurarenke)
+
+![Our first downtown LA algorithms meetup](https://secure.meetupstatic.com/photos/event/2/8/1/8/highres_467050264.jpeg)
 
 ## Next ideas
 
