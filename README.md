@@ -15,5 +15,5 @@ Resources and notes for the algorithms study group with Learn Teach Code (Create
 ## Being developed
 
    - Creating a wiki of resources: https://github.com/LearnTeachCode/algorithms-group/wiki
-   - **Gist Study Guides** shared at workshops given at meetups, and that people can download
+   - **Gist Study Guides** shared at presentations/workshops given at meetups, and that people can download
      - [Big O Notation](https://gist.github.com/ThuyNT13/16bc1cf4242e5e2ba84d20c47be793b0)
