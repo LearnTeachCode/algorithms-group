@@ -18,6 +18,7 @@ Resources and notes for the algorithms study group with Learn Teach Code (Create
    - **Gist Study Guides** shared at presentations/workshops given at meetups, and that people can download
      - [Big O Notation](https://gist.github.com/ThuyNT13/16bc1cf4242e5e2ba84d20c47be793b0)
      - [LinkedList](https://gist.github.com/ThuyNT13/85815881d64061ef3e21671a233f8e43)
+     - [HashMaps](https://gist.github.com/mtroiani/e03e48aa23b7e46b151d52ac042a8fa3)
      
 ---    
 
