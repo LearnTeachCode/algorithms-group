@@ -20,6 +20,7 @@ Resources and notes for the algorithms study group with Learn Teach Code (Create
      - [LinkedList](https://gist.github.com/ThuyNT13/85815881d64061ef3e21671a233f8e43)
      - [HashMaps](https://gist.github.com/mtroiani/e03e48aa23b7e46b151d52ac042a8fa3)
      - [Recursion and DP](https://gist.github.com/mtroiani/b30108f4cae4ccd1d511ee6dd53f2949)
+     - [Arrays](https://gist.github.com/mtroiani/899541a99c9e900dd017b0f1b48c7314)
      
 ---    
 
