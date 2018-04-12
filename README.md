@@ -24,6 +24,12 @@ Resources and notes for the algorithms study group with Learn Teach Code (Create
      
 ---    
 
+## Join Us!
+
+For the latest news, join our **#algorithms** and **#mock-interviews** channel on Slack. We are currently exploring weekly virtual/remote Meetups. This will allow for more consistent, regular practice. 
+
+**http://learnteachcode.herokuapp.com**
+
 ## Support
 
 Please open or respond to [an issue](https://github.com/LearnTeachCode/algorithms-group/issues) for support.
